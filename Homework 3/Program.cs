@@ -53,26 +53,15 @@
 
 //Напишите программу, которая принимает на вход число (N)
 // и выдаёт таблицу кубов чисел от 1 до N.
-// void Cube(int n)
-// {
-//     int index = 1;
-//     while (index <= n)
-//     {
-//         Console.WriteLine($"{index} - {Math.Pow(index, 3)}");
-//         index++;
-//     }
-// }
-// Console.Write("Введите число n: ");
-// int num1 = Convert.ToInt32(Console.ReadLine());
-// Cube(num1);// void Sqr(int n)
-// {
-//     int index = 1;
-//     while (index <= n)
-//     {
-//         Console.WriteLine($"{index} - {Math.Pow(index, 2)}");
-//         index++;
-//     }
-// }
-// Console.Write("Введите число n: ");
-// int num1 = Convert.ToInt32(Console.ReadLine());
-// Sqr(num1);
+void Cube(int n)
+{
+    int index = 1;
+    while (index <= n)
+    {
+        Console.WriteLine($"{index} - {Math.Pow(index, 3)}");
+        index++;
+    }
+}
+Console.Write("Введите число n: ");
+int num1 = Convert.ToInt32(Console.ReadLine());
+Cube(num1);
