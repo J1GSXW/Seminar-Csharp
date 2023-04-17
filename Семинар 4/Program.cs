@@ -1,51 +1,51 @@
-﻿// int GetSum(int num)
-// {
-//     int sum = 0;
+﻿int GetSum(int num)
+{
+    int sum = 0;
 
-//     for(int current = 1; current <= num; current++)
-//         sum = sum + current;
+    for(int current = 1; current <= num; current++)
+        sum = sum + current;
 
-//     return sum;
-// }
-// Console.Write("Input a number: ");
-// int a = Convert.ToInt32(Console.ReadLine());
+    return sum;
+}
+Console.Write("Input a number: ");
+int a = Convert.ToInt32(Console.ReadLine());
 
-// int res = GetSum(a);
-// Console.WriteLine($"Sum of numbers 1 to {a} is {res}");
+int res = GetSum(a);
+Console.WriteLine($"Sum of numbers 1 to {a} is {res}");
 
-//Task 1. Напишите программу, которая 
-//принимает на вход число и выдаёт количество цифр в числе.
-// int CountNum(int num)
-// {
-//     int count = 0;
-//     while(num > 0)
-//     {
-//         num = num / 10;
-//         count ++;
-//     }
-//     return count;
-// }
-// Console.Write("Введите число: ");
-// int number = Convert.ToInt32(Console.ReadLine());
-// Console.WriteLine($"Цифр в числе {number} {CountNum(number)}");
+Task 1. Напишите программу, которая 
+принимает на вход число и выдаёт количество цифр в числе.
+int CountNum(int num)
+{
+    int count = 0;
+    while(num > 0)
+    {
+        num = num / 10;
+        count ++;
+    }
+    return count;
+}
+Console.Write("Введите число: ");
+int number = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine($"Цифр в числе {number} {CountNum(number)}");
 
 
-//Напишите программу, которая принимает
-// на вход число N и выдаёт произведение чисел от 1 до N.
-// int MultNum(int num)
-// {
-//     int step = 1;
-//     int fact = 1;
-//     while (step <= num)
-//     {
-//         fact = fact * step;
-//         step++;
-//     }
-//     return fact;
-// }
-// Console.Write("Введите число: ");
-// int num = Convert.ToInt32(Console.ReadLine());
-// Console.WriteLine($"Факториал числа {num} = {MultNum(num)}");
+Напишите программу, которая принимает
+на вход число N и выдаёт произведение чисел от 1 до N.
+int MultNum(int num)
+{
+    int step = 1;
+    int fact = 1;
+    while (step <= num)
+    {
+        fact = fact * step;
+        step++;
+    }
+    return fact;
+}
+Console.Write("Введите число: ");
+int num = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine($"Факториал числа {num} = {MultNum(num)}");
 
 
 int[] CreateRandomArray(int size, int minValue, int maxValue)
