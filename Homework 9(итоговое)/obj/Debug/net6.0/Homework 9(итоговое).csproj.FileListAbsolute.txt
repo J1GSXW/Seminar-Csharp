@@ -1,0 +1,15 @@
+D:\Geekbrains\С#Семинары\Homework 9(итоговое)\bin\Debug\net6.0\Homework 9(итоговое).exe
+D:\Geekbrains\С#Семинары\Homework 9(итоговое)\bin\Debug\net6.0\Homework 9(итоговое).deps.json
+D:\Geekbrains\С#Семинары\Homework 9(итоговое)\bin\Debug\net6.0\Homework 9(итоговое).runtimeconfig.json
+D:\Geekbrains\С#Семинары\Homework 9(итоговое)\bin\Debug\net6.0\Homework 9(итоговое).dll
+D:\Geekbrains\С#Семинары\Homework 9(итоговое)\bin\Debug\net6.0\Homework 9(итоговое).pdb
+D:\Geekbrains\С#Семинары\Homework 9(итоговое)\obj\Debug\net6.0\Homework 9(итоговое).csproj.AssemblyReference.cache
+D:\Geekbrains\С#Семинары\Homework 9(итоговое)\obj\Debug\net6.0\Homework 9(итоговое).GeneratedMSBuildEditorConfig.editorconfig
+D:\Geekbrains\С#Семинары\Homework 9(итоговое)\obj\Debug\net6.0\Homework 9(итоговое).AssemblyInfoInputs.cache
+D:\Geekbrains\С#Семинары\Homework 9(итоговое)\obj\Debug\net6.0\Homework 9(итоговое).AssemblyInfo.cs
+D:\Geekbrains\С#Семинары\Homework 9(итоговое)\obj\Debug\net6.0\Homework 9(итоговое).csproj.CoreCompileInputs.cache
+D:\Geekbrains\С#Семинары\Homework 9(итоговое)\obj\Debug\net6.0\Homework 9(итоговое).dll
+D:\Geekbrains\С#Семинары\Homework 9(итоговое)\obj\Debug\net6.0\refint\Homework 9(итоговое).dll
+D:\Geekbrains\С#Семинары\Homework 9(итоговое)\obj\Debug\net6.0\Homework 9(итоговое).pdb
+D:\Geekbrains\С#Семинары\Homework 9(итоговое)\obj\Debug\net6.0\Homework 9(итоговое).genruntimeconfig.cache
+D:\Geekbrains\С#Семинары\Homework 9(итоговое)\obj\Debug\net6.0\ref\Homework 9(итоговое).dll
