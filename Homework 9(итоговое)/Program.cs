@@ -16,18 +16,18 @@
 // Напишите программу, которая найдёт сумму 
 //натуральных элементов в промежутке от m до n.
 
-// int ShowSumnumbers(int m, int n)
-// {
-//     if (m == n) return m;
-//     else if (m < n) return n + ShowSumnumbers(m, n - 1);
-//     else return n + ShowSumnumbers(m, n + 1);
-// }
+int ShowSumNumbers(int m, int n)
+{
+    if (m == n) return m;
+    else if (m < n) return n + ShowSumNumbers(m, n - 1);
+    else return n + ShowSumNumbers(m, n + 1);
+}
 
-// Console.Write("Введите число m: ");
-// int m = Convert.ToInt32(Console.ReadLine());
-// Console.Write("Введите число n: ");
-// int n = Convert.ToInt32(Console.ReadLine());
-// Console.Write(ShowSumnumbers(m,n));
+Console.Write("Введите число m: ");
+int m = Convert.ToInt32(Console.ReadLine());
+Console.Write("Введите число n: ");
+int n = Convert.ToInt32(Console.ReadLine());
+Console.Write(ShowSumNumbers(m,n));
 
 
 //Task 3. Напишите программу вычисления функции 
